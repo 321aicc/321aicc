@@ -16,3 +16,7 @@ One key. Every frontier model. A live market of independent suppliers, visible p
 > Models are becoming commodities. Access should not be.
 
 [⭐ Star the main repository](https://github.com/321aicc/321ai) · [Get a key](https://321ai.cc) · [Compare prices](https://321ai.cc/#/market)
+
+## Featured independent partner: AgentAPI.ai
+
+[AgentAPI.ai](https://agentapiai.com) is an independent, neutral AI API review and benchmarking site — separately operated, not part of 321AI and not owned by 321AI. Its reviews and rankings remain editorially independent.
